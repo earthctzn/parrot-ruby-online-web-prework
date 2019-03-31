@@ -1,4 +1,4 @@
-def parrot(phrase, arg1="Squawk!")
+def parrot(arg1="Squawk!", phrase=)
  phrase = "Pretty Bird!"
  puts "#{arg1}"
  return "Squawk!"
