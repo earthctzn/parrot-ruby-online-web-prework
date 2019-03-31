@@ -1,7 +1,7 @@
 def parrot(arg1="Squawk!", phrase="Pretty bird!")
- phrase = "#{arg1}, #{phrase}"
+ phrase = "#{phrase}"
  puts "#{arg1}"
- return "#{phrase}"
+ return "#{phrase} Squawk"
 end
 
 #
